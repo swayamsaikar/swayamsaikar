@@ -2,11 +2,10 @@
 
 Here are some stuff about me -
 
-- 🔭 I’m currently working on The Brain App
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on Discord
-- 🤔 I’m looking for help with App development 
+- 🔭 I’m currently working on The Covid App using The [disease.sh](https://disease.sh/) website API
+- 🌱 I’m currently learning React Native,firebase
+- 👯 I’m currently looking for friends to collaborate and code with me 
 - 💬 Ask me about any Coding or Tech related stuff
-- 📫 How to reach me: Discord , Facebook
+- 📫You can Reach Me Here at : Discord , Facebook
 
 
