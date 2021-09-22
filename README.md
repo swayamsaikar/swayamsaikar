@@ -2,19 +2,11 @@
 
 ## I'm a Student,App developer, Web developer and a Pythoneer
 
-- 🔭 I just launched a Car Price Predictor : [You can see it hear][https://github.com/swayamsaikar/car-price-prediction]
+- 🔭 I just launched a Car Price Predictor : [You can see it hear][githubProject]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 🤣🤣🤣🤣🤣🤣
-
-### Connect with me:
-
-[<img align="left" alt="Swayam sai kar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Swayam sai kar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Swayam sai kar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -35,11 +27,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=swayamsaikar&show_icons=true&hide_border=true"/>
 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[githubProject]:https://github.com/swayamsaikar/car-price-prediction
