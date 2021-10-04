@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 🤣🤣🤣🤣🤣🤣
+- I am current planning to switch to ZORIN 16 os
 
 ### Languages and Tools:
 
