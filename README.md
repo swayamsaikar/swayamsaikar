@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet 🤣🤣🤣🤣🤣🤣
+- [![Use My Refferal and get 100$ free credit in Digital Ocean](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a7167240a7b1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ### Languages and Tools:
 
